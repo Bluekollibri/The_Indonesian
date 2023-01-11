@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/home.html /menu.html /wisata.html /kuliner.html /budaya.html /about.html"
+  status = 200
